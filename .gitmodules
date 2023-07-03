@@ -1,3 +1,4 @@
-[submodule "Profile/portfolio"]
-	path = Profile/portfolio
-	url = https://github.com/HwangHarim/portfolio.git
+[submodule "algorithm/algorithm"]
+	path = algorithm/algorithm
+	url = https://github.com/HwangHarim/algorithm.git
+	branch = main
